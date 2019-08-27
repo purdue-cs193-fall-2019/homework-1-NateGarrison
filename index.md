@@ -21,12 +21,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Nate Garrison's First CS193 Homework
 
-- Bulleted
-- List
+
+- TA's are awesome
+- Able to ask questions about Computer Science
+- CS 180 Help
 
 1. Numbered
 2. List
